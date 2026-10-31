@@ -20,6 +20,8 @@ File| Description
 "Superstore_Python_Portfolio.ipynb"| Python analysis and visualizations
 "superstore_PowerBI_Portfolio.pbix"| Interactive Power BI dashboard
 
+![Power BI Dashboard](./powerbi-dashboard.png.png)
+
 Key Findings
 
 - Total Sales: Approximately 2.30 million
